@@ -1,2 +1,3 @@
+sqlite
 streamlit
 boto3
